@@ -11,7 +11,7 @@ export default function TopBar() {
         <h1>My Store</h1>
         </Link>
         <Link to='/cart'>
-      <div class="button fancy-button"> <ShoppingCartIcon color="secondary"> </ShoppingCartIcon>Checkout</div>
+      <div className="button fancy-button"> <ShoppingCartIcon color="secondary"> </ShoppingCartIcon>Checkout</div>
       </Link>
     </div>
    
